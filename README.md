@@ -1,3 +1,5 @@
+[![CI](https://github.com/nogibjj/ind_proj4_km632/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/ind_proj4_km632/actions/workflows/cicd.yml)
+
 # Simple Flask App 
 
 ## Demo Video
@@ -6,7 +8,7 @@ Link to the demo video:
 
 ## Project Overview
 
-In this project, I aimed to learn the basics of web development with Flask and Azure. The Flask app was built and containerized. It is then pushed to DockerHub so that I can deploy the app using Azure. 
+In this project, I aimed to learn the basics of web development with Flask and Azure. The Flask app was built and containerized. It is then pushed to DockerHub so that I can deploy the image from Dockerhub using Azure. 
 
 I created simple two page web server that renders texts on both pages
 
