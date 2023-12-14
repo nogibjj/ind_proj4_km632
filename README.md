@@ -6,6 +6,8 @@
 
 Link to the demo video:
 
+https://www.youtube.com/watch?v=IHwH8tfzy6Q
+
 ## Project Overview
 
 In this project, I aimed to learn the basics of web development with Flask and Azure. The Flask app was built and containerized. It is then pushed to DockerHub so that I can deploy the image from Dockerhub using Azure. 
